@@ -141,6 +141,12 @@
             "state" : "translated",
             "value" : "%@ 目标范围"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ rozsah"
+          }
         }
       }
     },
@@ -284,6 +290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@U 大剂量推注失败"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolus %1$@ U se nepodařilo podat"
           }
         }
       }
@@ -429,6 +441,12 @@
             "state" : "translated",
             "value" : "%1$@ U 大剂量可能没有输注成功"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Není jisté, zda byl bolus %1$@ U podán"
+          }
         }
       }
     },
@@ -571,6 +589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未来三小时的预测血糖均高于此下限时，%1$@ 才会开启基础率并推荐大剂量。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ bude podávat bazální inzulín a doporučovat bolus pouze tehdy, pokud se předpokládá, že glykémie zůstane nad touto hranicí po následující tři hodiny."
           }
         }
       }
@@ -721,6 +745,12 @@
             "state" : "translated",
             "value" : "%1$@%2$@%3$@"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@%3$@"
+          }
         }
       }
     },
@@ -864,6 +894,12 @@
             "state" : "translated",
             "value" : "您输入的数值高于大多数人通常建议的范围。"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadaná hodnota je vyšší, než se obvykle doporučuje většině lidí."
+          }
         }
       }
     },
@@ -1006,6 +1042,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A value you have entered is lower than what is typically recommended for most people."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadaná hodnota je nižší, než se obvykle doporučuje většině lidí."
           }
         }
       }
@@ -1293,6 +1335,12 @@
             "state" : "translated",
             "value" : "Afrezza is an ultra rapid-acting mealtime insulin that is breathed in through your lungs using an oral inhaler and made by MannKind"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afrezza je ultrarychle působící inzulín podávaný při jídle inhalací do plic pomocí inhalátoru. Vyrábí jej společnost MannKind."
+          }
         }
       }
     },
@@ -1579,6 +1627,12 @@
             "state" : "translated",
             "value" : "爱倍达（谷赖胰岛素）（Apidra）"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apidra (inzulín glulisin)"
+          }
         }
       }
     },
@@ -1721,6 +1775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "爱倍达（谷赖胰岛素）是一种由赛诺菲公司生产的速效胰岛素"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apidra (inzulín glulisin) je rychle působící inzulín vyráběný společností Sanofi-Aventis."
           }
         }
       }
@@ -1866,6 +1926,12 @@
             "state" : "translated",
             "value" : "Authorization Denied"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přístup nebyl povolen"
+          }
         }
       }
     },
@@ -2009,6 +2075,12 @@
             "state" : "translated",
             "value" : "基础"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bazál"
+          }
         }
       }
     },
@@ -2024,7 +2096,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Úrovně bazálu"
+            "value" : "Bazální dávky"
           }
         },
         "da" : {
@@ -2456,6 +2528,12 @@
             "state" : "translated",
             "value" : "碳水化合物系数"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sacharidové poměry"
+          }
         }
       }
     },
@@ -2599,6 +2677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Check your pump before retrying"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Před opakováním pokusu zkontrolujte pumpu."
           }
         }
       }
@@ -2756,6 +2840,12 @@
             "state" : "translated",
             "value" : "授权被拒绝"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přístup nebyl povolen"
+          }
         }
       }
     },
@@ -2912,6 +3002,12 @@
             "state" : "translated",
             "value" : "该样本可以从HealthKit中删除"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tento záznam lze odstranit v aplikaci Zdraví."
+          }
         }
       }
     },
@@ -3061,6 +3157,12 @@
             "state" : "translated",
             "value" : "通信失败"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chyba komunikace"
+          }
         }
       }
     },
@@ -3203,6 +3305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Communications interrupted during insulin delivery command."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Během příkazu k podání inzulínu došlo k přerušení komunikace."
           }
         }
       }
@@ -3353,6 +3461,12 @@
             "state" : "translated",
             "value" : "连接失败"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chyba připojení"
+          }
         }
       }
     },
@@ -3502,6 +3616,12 @@
             "state" : "translated",
             "value" : "校正范围"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cílové rozmezí glykémie"
+          }
         }
       }
     },
@@ -3645,6 +3765,12 @@
             "state" : "translated",
             "value" : "校正范围是您希望 %1$@ 在调整基础率胰岛素及计算大剂量时所瞄准的血糖值（或血糖值范围）。"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cílové rozmezí glykémie je hodnota nebo rozsah hodnot glykémie, kterých má aplikace %1$@ dosahovat při úpravě bazálního inzulínu a které pomáhají při výpočtu bolusů."
+          }
         }
       }
     },
@@ -3787,6 +3913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Critical Update"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kritická aktualizace"
           }
         }
       }
@@ -4092,6 +4224,12 @@
             "state" : "translated",
             "value" : "设备拒绝连接"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zařízení odmítlo požadavek"
+          }
         }
       }
     },
@@ -4234,6 +4372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Device Status Critical"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kritický stav zařízení"
           }
         }
       }
@@ -4378,6 +4522,12 @@
             "state" : "translated",
             "value" : "Device Status Normal"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normální stav zařízení"
+          }
         }
       }
     },
@@ -4520,6 +4670,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Device Status Warning"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varování zařízení"
           }
         }
       }
@@ -4670,6 +4826,12 @@
             "state" : "translated",
             "value" : "确认当天存在碳水化合物记录"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkontrolujte, zda jsou pro zadané datum k dispozici údaje o sacharidech."
+          }
         }
       }
     },
@@ -4818,6 +4980,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下降"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glykémie klesá"
           }
         }
       }
@@ -4968,6 +5136,12 @@
             "state" : "translated",
             "value" : "快速下降"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glykémie rychle klesá"
+          }
         }
       }
     },
@@ -5116,6 +5290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "非常快速下降"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glykémie velmi rychle klesá"
           }
         }
       }
@@ -5409,6 +5589,12 @@
             "state" : "translated",
             "value" : "费雅普（Fiasp）是一种由诺和诺德公司生产的餐时用门冬胰岛素制剂，添加了烟酰胺（维生素B3）。"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiasp je rychle působící inzulín aspart určený k podávání v souvislosti s jídlem. Obsahuje přidaný nikotinamid (vitamín B3) a vyrábí jej společnost Novo Nordisk."
+          }
         }
       }
     },
@@ -5558,6 +5744,12 @@
             "state" : "translated",
             "value" : "平稳"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glykémie je stabilní"
+          }
         }
       }
     },
@@ -5700,6 +5892,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U rychle působícího inzulínu aplikace %1$@ předpokládá, že inzulín aktivně působí po dobu 6 hodin. Můžete si vybrat z různých modelů průběhu maximálního účinku."
           }
         }
       }
@@ -5993,6 +6191,12 @@
             "state" : "translated",
             "value" : "血糖安全下限"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bezpečnostní limit glykémie"
+          }
         }
       }
     },
@@ -6136,6 +6340,12 @@
             "state" : "translated",
             "value" : "Hour"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hodina"
+          }
         }
       }
     },
@@ -6278,6 +6488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hours"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hodiny"
           }
         }
       }
@@ -6565,6 +6781,12 @@
             "state" : "translated",
             "value" : "优泌乐（赖脯胰岛素）Humalog"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humalog (inzulín lispro)"
+          }
         }
       }
     },
@@ -6707,6 +6929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "优泌乐（赖脯胰岛素注射液）是一种由礼来公司生产的速效胰岛素。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humalog (inzulín lispro) je rychle působící inzulín vyráběný společností Eli Lilly."
           }
         }
       }
@@ -6857,6 +7085,12 @@
             "state" : "translated",
             "value" : "胰岛素模型"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model účinku inzulínu"
+          }
         }
       }
     },
@@ -7005,6 +7239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "胰岛素敏感系数"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Citlivost na inzulín"
           }
         }
       }
@@ -7155,6 +7395,12 @@
             "state" : "translated",
             "value" : "无效配置"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neplatné nastavení"
+          }
         }
       }
     },
@@ -7298,6 +7544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It is safe to retry"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokus lze bezpečně opakovat"
           }
         }
       }
@@ -7585,6 +7837,12 @@
             "state" : "translated",
             "value" : "Lyumjev 是一种由礼来公司生产的餐时用赖普胰岛素制剂，添加了柠檬酸钠和曲前列环素。"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lyumjev je rychle působící inzulín lispro určený k podávání v souvislosti s jídlem. Obsahuje přidaný citrát a treprostinil a vyrábí jej společnost Eli Lilly."
+          }
         }
       }
     },
@@ -7727,6 +7985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Make sure your pump is within communication range of your phone."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ujistěte se, že je pumpa v dosahu komunikace s telefonem."
           }
         }
       }
@@ -7877,6 +8141,12 @@
             "state" : "translated",
             "value" : "最大基础速率"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximální bazální dávka"
+          }
         }
       }
     },
@@ -8019,6 +8289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最大基础速率是 %1$@ 允许设置的最高临时基础速率。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximální bazální dávka je nejvyšší dočasná bazální dávka, kterou smí aplikace %1$@ nastavit."
           }
         }
       }
@@ -8169,6 +8445,12 @@
             "state" : "translated",
             "value" : "最大剂量"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximální bolus"
+          }
         }
       }
     },
@@ -8311,6 +8593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最大剂量是你每次可用于覆盖碳水或降低高血糖的最大胰岛素注射量。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximální bolus je nejvyšší množství inzulínu, které lze podat najednou k pokrytí přijatých sacharidů nebo ke snížení vysoké glykémie."
           }
         }
       }
@@ -9194,6 +9482,12 @@
             "state" : "translated",
             "value" : "请注意"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyžaduje pozornost"
+          }
         }
       }
     },
@@ -9336,6 +9630,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No Update"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualizace není potřeba"
           }
         }
       }
@@ -9485,6 +9785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未发现数据"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nebyly nalezeny žádné hodnoty"
           }
         }
       }
@@ -9772,6 +10078,12 @@
             "state" : "translated",
             "value" : "诺和锐（门冬胰岛素）"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novolog (inzulín aspart)"
+          }
         }
       }
     },
@@ -9914,6 +10226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "诺和锐（门冬胰岛素）是一种由诺和诺德公司生产的速效胰岛素。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NovoLog (inzulín aspart) je rychle působící inzulín vyráběný společností Novo Nordisk."
           }
         }
       }
@@ -10213,6 +10531,12 @@
             "state" : "translated",
             "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jedna nebo více zadaných hodnot je mimo rozsah běžně doporučovaný pro většinu lidí."
+          }
         }
       }
     },
@@ -10356,6 +10680,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Please re-enable sharing in Health"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znovu povolte sdílení dat v aplikaci Zdraví."
           }
         }
       }
@@ -10506,6 +10836,12 @@
             "state" : "translated",
             "value" : "餐前"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Před jídlem"
+          }
         }
       }
     },
@@ -10649,6 +10985,12 @@
             "state" : "translated",
             "value" : "Recommended Update"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doporučená aktualizace"
+          }
         }
       }
     },
@@ -10791,6 +11133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resumed"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obnoveno"
           }
         }
       }
@@ -10941,6 +11289,12 @@
             "state" : "translated",
             "value" : "上升"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stoupá"
+          }
         }
       }
     },
@@ -11089,6 +11443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "快速上升"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rychle stoupá"
           }
         }
       }
@@ -11239,6 +11599,12 @@
             "state" : "translated",
             "value" : "非常快速上升"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velmi rychle stoupá"
+          }
         }
       }
     },
@@ -11381,6 +11747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Některé zadané hodnoty jsou mimo rozsah běžně doporučovaný pro většinu lidí."
           }
         }
       }
@@ -11680,6 +12052,12 @@
             "state" : "translated",
             "value" : "临时基础率"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dočasný bazál"
+          }
         }
       }
     },
@@ -11822,6 +12200,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "餐前临时降低目标血糖，有助于控制餐后血糖波动。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Před jídlem dočasně snižte cílovou glykémii, abyste omezili její prudký vzestup po jídle."
           }
         }
       }
@@ -11966,6 +12350,12 @@
             "state" : "translated",
             "value" : "在运动前、运动中或运动后，临时提高你的血糖目标值，以降低发生低血糖的风险。"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Před fyzickou aktivitou, během ní nebo po ní dočasně zvyšte cílovou glykémii, abyste snížili riziko hypoglykémie."
+          }
         }
       }
     },
@@ -12108,6 +12498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "您输入的数值高于大多数人通常建议的范围。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadaná hodnota je vyšší, než se běžně doporučuje většině lidí."
           }
         }
       }
@@ -12252,6 +12648,12 @@
             "state" : "translated",
             "value" : "你输入的数值低于大多数人通常建议的范围。"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadaná hodnota je nižší, než se běžně doporučuje většině lidí."
+          }
         }
       }
     },
@@ -12394,6 +12796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The values you have entered are outside of what is typically recommended for most people."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadané hodnoty jsou mimo rozsah běžně doporučovaný pro většinu lidí."
           }
         }
       }
@@ -12681,6 +13089,12 @@
             "state" : "translated",
             "value" : "U/小时"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U/hod"
+          }
         }
       }
     },
@@ -12823,6 +13237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uncertain Delivery"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejisté podání inzulínu"
           }
         }
       }
@@ -12973,6 +13393,12 @@
             "state" : "translated",
             "value" : "单位"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jednotka"
+          }
         }
       }
     },
@@ -13121,6 +13547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "单位/小时"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jednotka za hodinu"
           }
         }
       }
@@ -13271,6 +13703,12 @@
             "state" : "translated",
             "value" : "单位"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jednotky"
+          }
         }
       }
     },
@@ -13420,6 +13858,12 @@
             "state" : "translated",
             "value" : "单位/小时"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jednotky za hodinu"
+          }
         }
       }
     },
@@ -13562,6 +14006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Update Available"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je dostupná aktualizace"
           }
         }
       }
@@ -13712,6 +14162,12 @@
             "state" : "translated",
             "value" : "运动"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fyzická aktivita"
+          }
         }
       }
     },
@@ -13854,6 +14310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你的基础胰岛素速率（Basal Rate）是指每小时使用的胰岛素单位数，用于满足身体的基础胰岛素需求。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bazální dávka inzulínu představuje množství jednotek inzulínu podávaných za hodinu k pokrytí základní potřeby inzulínu."
           }
         }
       }
@@ -13998,6 +14460,12 @@
             "state" : "translated",
             "value" : "碳水化合物系数表示每单位胰岛素可以覆盖多少克碳水化合物。"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sacharidový poměr udává, kolik gramů sacharidů pokryje jedna jednotka inzulínu."
+          }
         }
       }
     },
@@ -14140,6 +14608,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你的胰岛素敏感系数是指每单位胰岛素预计可使血糖降低的数值。"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Citlivost na inzulín udává očekávaný pokles glykémie po podání jedné jednotky inzulínu."
           }
         }
       }
